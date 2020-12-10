@@ -116,6 +116,6 @@ export class Apiv6 {
   }
 }
 
-console.log('h');
+console.log('hi');
 
 export default Apiv6;
